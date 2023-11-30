@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\coffee-shop-app.bundle.scp.css",
+      "PackagePath": "staticwebassets\\coffee-shop-app.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\WebPage\\offerimage.PNG",
+      "PackagePath": "staticwebassets\\Images\\WebPage\\offerimage.PNG"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\Images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "PackagePath": "staticwebassets\\Images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\cofeeImages\\affogato.jpg",
+      "PackagePath": "staticwebassets\\Images\\cofeeImages\\affogato.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\cofeeImages\\flat-white.jpg",
+      "PackagePath": "staticwebassets\\Images\\cofeeImages\\flat-white.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\cofeeImages\\iced-coffee.jpg",
+      "PackagePath": "staticwebassets\\Images\\cofeeImages\\iced-coffee.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\cofeeImages\\mocha.jpg",
+      "PackagePath": "staticwebassets\\Images\\cofeeImages\\mocha.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\cofeeImages\\turkish-coffee.jpg",
+      "PackagePath": "staticwebassets\\Images\\cofeeImages\\turkish-coffee.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\coffee-beans-2258839-960.jpg",
+      "PackagePath": "staticwebassets\\Images\\coffee-beans-2258839-960.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "PackagePath": "staticwebassets\\Images\\coffee-icon-sign-symbol-design-free-png.webp"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "PackagePath": "staticwebassets\\Images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\hashes.json",
+      "PackagePath": "staticwebassets\\Images\\hashes.json"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\Images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\mbr-1920x1372.jpg",
+      "PackagePath": "staticwebassets\\Images\\mbr-1920x1372.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "PackagePath": "staticwebassets\\Images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\Images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\Images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "PackagePath": "staticwebassets\\Images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\dropdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\dropdown\\css\\style.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\dropdown\\js\\navbar-dropdown.js",
+      "PackagePath": "staticwebassets\\dropdown\\js\\navbar-dropdown.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\formoid\\formoid.min.js",
+      "PackagePath": "staticwebassets\\formoid\\formoid.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\mobirise\\css\\mbr-additional.css",
+      "PackagePath": "staticwebassets\\mobirise\\css\\mbr-additional.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\parallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\parallax\\jarallax.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\parallax\\jarallax.js",
+      "PackagePath": "staticwebassets\\parallax\\jarallax.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\smoothscroll\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\smoothscroll\\smooth-scroll.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\socicon\\css\\styles.css",
+      "PackagePath": "staticwebassets\\socicon\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\socicon\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\socicon\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\socicon\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\socicon\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\socicon\\fonts\\socicon.woff2",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.woff2"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\theme\\css\\style.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\theme\\js\\script.js"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.css"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
+    },
+    {
+      "Id": "D:\\shraddha\\EcomWebsite\\sbcoffee-shop\\coffee-shop-app\\wwwroot\\ytplayer\\index.js",
+      "PackagePath": "staticwebassets\\ytplayer\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.coffee-shop-app.props",
+      "PackagePath": "build\\coffee-shop-app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.coffee-shop-app.props",
+      "PackagePath": "buildMultiTargeting\\coffee-shop-app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.coffee-shop-app.props",
+      "PackagePath": "buildTransitive\\coffee-shop-app.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.coffee-shop-app.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
