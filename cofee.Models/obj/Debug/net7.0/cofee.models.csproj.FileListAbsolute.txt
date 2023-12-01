@@ -1,0 +1,14 @@
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\bin\Debug\net7.0\cofee.models.deps.json
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\bin\Debug\net7.0\cofee.models.runtimeconfig.json
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\bin\Debug\net7.0\cofee.models.dll
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\bin\Debug\net7.0\cofee.models.pdb
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.csproj.AssemblyReference.cache
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.AssemblyInfoInputs.cache
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.AssemblyInfo.cs
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.csproj.CoreCompileInputs.cache
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.dll
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\refint\cofee.models.dll
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.pdb
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\cofee.models.genruntimeconfig.cache
+D:\shraddha\EcomWebsite\coffee-shop\cofee.Models\obj\Debug\net7.0\ref\cofee.models.dll
