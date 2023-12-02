@@ -1,6 +1,6 @@
 # ecom_website_sbcofeeshop
 
-This is an MVC Core project for an E-Commerce website featuring a shopping cart, Stripe payment integration, Identity login/register functionality, and a responsive UI. The project follows a repository pattern using Entity Framework Core for data access and utilizes a SQL Server database.
+This is an MVC Core project for an E-Commerce website featuring a shopping cart, Stripe payment integration, Identity login/register functionality, and a responsive UI. The project follows a repository pattern using Entity Framework Core Migration for SQL data access. The website is deployed on Microsoft Azure Web App Service. Data storage is handled by an Azure SQL Database.
 
 ## Features
 
