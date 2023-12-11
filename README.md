@@ -19,4 +19,4 @@ This is an MVC Core project for an E-Commerce website featuring a shopping cart,
 1. Clone the repository:
 
 ```bash
-(https://github.com/ShraddhaBhure/ecom_website_sbcofeeshop.git)https://github.com/ShraddhaBhure/ecom_website_sbcofeeshop.git
+https://github.com/ShraddhaBhure/ecom_website_sbcofeeshop.git
